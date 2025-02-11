@@ -29,19 +29,3 @@ Python
 Pandas & NumPy (Data Manipulation)
 
 Scikit-Learn (Machine Learning & Model Evaluation)
-
-## Implementation Steps
-Data Preprocessing
-
-Load and explore the dataset.
-
-Scale the features for better model performance.
-
-Model Training
-
-Train a Logistic Regression classifier on the dataset.
-
-Model Evaluation
-
-Evaluated the model using accuracy_score.
- 
